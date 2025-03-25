@@ -37,6 +37,8 @@ This project provides an interactive **web-based housing price prediction tool**
 - **PySpark Pipeline (`app.py`)**
   - Built using `Spark MLlib` with `GBTRegressor`
   - Suitable for larger batch predictions and scalable environments
+  - ![Saved Models](model.png)
+
 
 ---
 
